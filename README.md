@@ -10,4 +10,4 @@ This repository contains:
 
 4)Not in this repository, but part of the project is a video walkthrough located at INSERT LINK FOR VIDEO
 
-5)Also not in this repository is a written blog entry on this project located at INSERT LINK FOR BLOG
+5)Also not in this repository is a written blog entry on this project located at https://steve699777341.wordpress.com/2019/08/26/flatiron-school-module-1-final-project/
